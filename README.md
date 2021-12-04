@@ -1,2 +1,4 @@
-# website
-O RaceCarHorizon é um jogo de guerra entre Redes Sociais, será que você consegue vencer essa guerra?
+# O que é isso?
+- Este repositório foi feito para armazenar os arquivos do site oficial do **RaceCarHorizon**.
+# Qual é o link/url do site?
+- https://racecarhorizon.ml/
