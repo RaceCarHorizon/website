@@ -1,0 +1,78 @@
+body {
+    background-color: black;
+}
+
+#startpage {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+#creditspage {
+    background-color: rgb(99, 99, 99);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+#downloadpage {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.top {
+    color: white;
+    height: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top1 {
+    color: white;
+    height: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.info {
+    margin-top: 100px;
+    margin-left: 100px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info_b {
+    margin-left: 100px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.breakable-text {
+    display: inline;
+    white-space: nowrap;
+}
+.social {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: max-content;
+    text-align: center;
+}
+hr {
+	border: 0;
+	border-top: 1px solid #141414;
+}
